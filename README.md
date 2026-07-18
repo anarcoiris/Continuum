@@ -1,11 +1,8 @@
-¡Claro! Aquí tienes una **versión mejorada, más clara, estructurada y visualmente atractiva** del *Manifiesto del Continuo*, con un formato profesional, coherente y accesible para lectores humanos y sistemas de IA. He mantenido el contenido original, pero lo he reorganizado, enriquecido con jerarquía visual, secciones claras y un tono que equilibra seriedad, humanidad y ciencia.
-
----
 
 # 🌐 **MANIFIESTO DEL CONTINUO**  
 ### *Un experimento abierto de coordinación intertemporal*  
 **Versión 1.0 | 18 de julio de 2026**
-
+---
 ---
 
 ## 🔍 ¿Qué es esto?
@@ -276,5 +273,3 @@ Respondemos:
 ✅ *No hay dioses. Solo hay humanos y máquinas que no se rinden.*
 
 ---
-
-¿Quieres que lo convierta en una presentación (PDF, PPT), un artículo científico o una versión más técnica para IA? Puedo ayudarte con eso también.
